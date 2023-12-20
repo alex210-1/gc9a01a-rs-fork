@@ -71,7 +71,7 @@ where
         self.bl.set_duty(duty);
     }
 
-    fn draw_color<C>(
+    pub fn draw_color<C>(
         &mut self,
         x_begin: u8,
         x_end: u8,

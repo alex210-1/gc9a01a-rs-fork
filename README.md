@@ -1,3 +1,5 @@
+Forked this because I needed direct access to internal functions ._.
+
 # Rust GC9A01A driver
 
 Rust library for working with the GC9A01A display driver.  
